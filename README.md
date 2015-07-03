@@ -1,6 +1,7 @@
 # MessengerProject
 
 Messenger activity built to mimic Samsung Messenger
+
 Goal to have the same functionality as Samsung messenger minus calling and other non-messenging functions
 Project timeline 6/22/15-7/3/15
 
