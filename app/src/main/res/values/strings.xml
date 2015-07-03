@@ -4,5 +4,9 @@
     <string name="app_name">MessengerProject</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="enter_message">Enter message</string>
+    <string name="send">SEND</string>
+    <string name="call">CALL</string>
+    <string name="more">MORE</string>
 
 </resources>
